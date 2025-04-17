@@ -50,7 +50,7 @@ class Advert {
         try {
 
 
-            const response = await fetch(`http://localhost:8080/api/resume/advert-TTN`,
+            const response = await fetch(`http://localhost:8080/api/resume/advert`,
                 {
                     method: 'put',
                     body: JSON.stringify(body),
