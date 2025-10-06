@@ -2,7 +2,7 @@
   <v-app-bar primary>
     <v-app-bar-title>
       <v-icon icon="mdi-circle-slice-4" />
-      БАНК ВАКАНСИЙ
+      БАНК IT ВАКАНСИЙ
 
     </v-app-bar-title>
     <v-btn class="auth" to="/"> Главная </v-btn>

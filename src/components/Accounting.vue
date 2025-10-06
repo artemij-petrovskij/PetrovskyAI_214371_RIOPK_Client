@@ -11,34 +11,34 @@
           <v-list density="compact" nav>
             <v-list-item prepend-icon="mdi-folder" @click="loadMyAdverts()" value="TTN">
               <v-list-item-title>
-                Товарно-транспортные <br>накладные
+               
               </v-list-item-title>
             </v-list-item>
             <v-list-item prepend-icon="mdi-folder" @click="loadTN()" value="TN">
               <v-list-item-title>
-                Товарный раздел
+              
               </v-list-item-title>
             </v-list-item>
             <v-divider></v-divider>
             <v-list-item prepend-icon="mdi-folder" @click="loadPKO()" value="PKO">
               <v-list-item-title>
-                Приходно кассовые<br> ордера
+                
               </v-list-item-title>
             </v-list-item>
             <v-list-item prepend-icon="mdi-folder" @click="loadRKO()" value="RKO">
               <v-list-item-title>
-                Расходно кассовые<br> ордера
+              
               </v-list-item-title>
             </v-list-item>
             <v-divider></v-divider>
             <v-list-item prepend-icon="mdi-folder" @click="loadPSO()" value="PSO">
               <v-list-item-title>
-                Акты о приеме-передаче<br> основных средств
+              
               </v-list-item-title>
             </v-list-item>
             <v-list-item prepend-icon="mdi-folder" @click="loadPNA()" value="PNA">
               <v-list-item-title>
-                Акты о приеме-передаче<br> нематериальных активов
+               
               </v-list-item-title>
             </v-list-item>
           </v-list>

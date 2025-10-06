@@ -3,7 +3,7 @@
     <v-app-bar-title>
       <v-icon icon="mdi-circle-slice-4" />
 
-      БАНК ВАКАНСИЙ - ПАНЕЛЬ АДМИНИСТРАТОРА
+      БАНК IT ВАКАНСИЙ - ПАНЕЛЬ АДМИНИСТРАТОРА
 
     </v-app-bar-title>
     <!-- <v-btn class="auth" to="/logged"> Каталог </v-btn>

@@ -14,7 +14,7 @@
       <v-app-bar-nav-icon></v-app-bar-nav-icon>
     </template>
 
-    <v-app-bar-title>БАНК ВАКАНСИЙ</v-app-bar-title>
+    <v-app-bar-title>БАНК IT ВАКАНСИЙ</v-app-bar-title>
 
     <template v-slot:append sm="3" xl="3" v-if="hr_mode">
       <v-btn class="auth" to="/vacancies" color="deep-orange-accent-4"> Вакансии </v-btn>
